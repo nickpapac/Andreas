@@ -1,0 +1,5 @@
+---
+code_quality: false
+build_binary: false
+deploy: false
+script: MyFolder/Scenario.py
