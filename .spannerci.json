@@ -2,5 +2,5 @@
   "code_quality": false,
   "build_binary": false,
   "deploy": false,
-  "script": "Scenario.py"
+  "script": "MyFolder/MyScenario.py"
 }
